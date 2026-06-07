@@ -10,6 +10,8 @@ A modern full-stack web application designed to streamline the management of Ayu
 - Secure login system
 - Role-based access control
 - Patient, Practitioner, and Admin accounts
+- <img width="1401" height="902" alt="Screenshot 2026-06-07 163107" src="https://github.com/user-attachments/assets/b5485927-a4ab-40a9-b044-1c44515b0303" />
+
 
 ### 👤 Patient Portal
 - Dashboard with treatment overview
@@ -19,6 +21,9 @@ A modern full-stack web application designed to streamline the management of Ayu
 - Access personalized diet plans
 - Receive notifications and alerts
 - Submit feedback
+- <img width="1447" height="850" alt="Screenshot 2026-06-07 163136" src="https://github.com/user-attachments/assets/7574aeae-6f79-4ea9-ac13-3c349a4065b7" />
+<img width="1447" height="902" alt="Screenshot 2026-06-07 163158" src="https://github.com/user-attachments/assets/b37dc24d-1615-4b51-9b9e-a2cab802814d" />
+
 
 ### 👨‍⚕️ Practitioner Portal
 - Daily schedule management
@@ -28,6 +33,9 @@ A modern full-stack web application designed to streamline the management of Ayu
 - Update diet plans
 - Send notifications and emergency alerts
 - Track patient progress
+- <img width="1431" height="843" alt="Screenshot 2026-06-07 163215" src="https://github.com/user-attachments/assets/d7ad36ac-b4d2-4216-9cd1-ba34431cb7b0" />
+
+<img width="1448" height="929" alt="Screenshot 2026-06-07 163236" src="https://github.com/user-attachments/assets/1f8f6733-1a6f-4f1d-83a7-da7866311a29" />
 
 ### 🏥 Admin Portal
 - Manage patients and practitioners
